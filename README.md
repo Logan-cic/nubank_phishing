@@ -1,4 +1,4 @@
-# projeto_perguntas
+# Projeto GamePhishing
 
 A phishing project using flutter to create a fake email.
 
