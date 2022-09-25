@@ -1,6 +1,6 @@
 # projeto_perguntas
 
-A new Flutter project.
+A phishing project using flutter to create a fake email.
 
 ## Getting Started
 
